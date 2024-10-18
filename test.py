@@ -1,0 +1,1 @@
+open('/Users/gauss/UNI/IA/Progetti/neg_words.txt','r')
